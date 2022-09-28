@@ -1,1 +1,0 @@
-git init del repositorio de física experimental de partículas
